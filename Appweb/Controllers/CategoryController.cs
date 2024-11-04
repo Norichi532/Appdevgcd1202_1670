@@ -2,7 +2,7 @@
 
 namespace Appweb.Controllers
 {
-    public class CateguryController : Controller
+    public class CategoryController : Controller
     {
         public IActionResult Index()
         {
